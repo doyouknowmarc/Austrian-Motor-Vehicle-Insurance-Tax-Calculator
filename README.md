@@ -1,13 +1,12 @@
 # Austrian Motor Vehicle Insurance Tax Calculator
 
 A Streamlit application that calculates the monthly and annual motor vehicle insurance tax based on Austrian regulations.
+![app_screenshot.png](app_screenshot.png "User Interface")
 
 ## Overview
 
 This calculator helps Austrian vehicle owners determine their motor vehicle insurance tax (motorbezogene Versicherungssteuer) based on various vehicle parameters. The calculator supports different vehicle types, drive systems, and registration dates, implementing the tax formulas as defined in the Austrian Versicherungssteuergesetz (Insurance Tax Act).
 Calculation based on: [Budgetsanierungsmaßnahmengesetz 2025 – BSMG 2025 (14/BNR)](https://www.parlament.gv.at/dokument/XXVIII/BNR/14/fnameorig_1671984.html).
-
-![app_screenshot.png](app_screenshot.png "User Interface")
 
 ## Features
 
